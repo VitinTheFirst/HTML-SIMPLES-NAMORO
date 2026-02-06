@@ -1,13 +1,6 @@
 # HTML-SIMPLEEES
-HTML SIMPLES, FEITO SÓ POR MEME EM 10 SEGUNDOS KKKKKK
+HTML SIMPLES para teste
 
-
-
-# RODANDO
-
-SÓ METER ESSE CÓDIGO EM UM ARQUIVO .HTML
-
-exemplo:
 
 Va em um gerenciador e crie um arquivo e de um nome para ele junto da extensão .html (exemplo abaixo)
 
